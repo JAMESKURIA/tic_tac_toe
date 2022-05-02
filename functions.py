@@ -1,9 +1,3 @@
-# HW: N
-# Name: Hani Almansouri
-# ID: 123456789
-#
-# -------------------------------------------------
-
 import turtle as t
 
 r = t.Turtle()
